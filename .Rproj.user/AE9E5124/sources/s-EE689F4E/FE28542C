@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1567080866365.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FE28542C",
+    "lastKnownWriteTime" : 1567093386,
+    "last_content_update" : 1567093386694,
+    "path" : "~/projects/cascading_classifiers/cascading_classifiers.R",
+    "project_path" : "cascading_classifiers.R",
+    "properties" : {
+        "cursorPosition" : "15,61",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
